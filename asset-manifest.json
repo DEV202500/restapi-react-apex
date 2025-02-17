@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/restapi-react-apex/static/css/main.a83cdc71.css",
+    "main.js": "/restapi-react-apex/static/js/main.75e19f08.js",
+    "index.html": "/restapi-react-apex/index.html",
+    "main.a83cdc71.css.map": "/restapi-react-apex/static/css/main.a83cdc71.css.map",
+    "main.75e19f08.js.map": "/restapi-react-apex/static/js/main.75e19f08.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a83cdc71.css",
+    "static/js/main.75e19f08.js"
+  ]
+}
