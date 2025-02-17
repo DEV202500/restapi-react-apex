@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/restapi-react-apex/static/css/main.a83cdc71.css",
-    "main.js": "/restapi-react-apex/static/js/main.75e19f08.js",
+    "main.css": "/restapi-react-apex/static/css/main.d35ee493.css",
+    "main.js": "/restapi-react-apex/static/js/main.bcc6915b.js",
     "index.html": "/restapi-react-apex/index.html",
-    "main.a83cdc71.css.map": "/restapi-react-apex/static/css/main.a83cdc71.css.map",
-    "main.75e19f08.js.map": "/restapi-react-apex/static/js/main.75e19f08.js.map"
+    "main.d35ee493.css.map": "/restapi-react-apex/static/css/main.d35ee493.css.map",
+    "main.bcc6915b.js.map": "/restapi-react-apex/static/js/main.bcc6915b.js.map"
   },
   "entrypoints": [
-    "static/css/main.a83cdc71.css",
-    "static/js/main.75e19f08.js"
+    "static/css/main.d35ee493.css",
+    "static/js/main.bcc6915b.js"
   ]
 }
